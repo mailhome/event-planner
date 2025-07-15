@@ -119,4 +119,8 @@
   body {
     @apply bg-background text-foreground;
   }
+
+  .width-container {
+    @apply px-2 sm:px-4 md:container mx-auto;
+  }
 }
